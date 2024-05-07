@@ -1,0 +1,167 @@
+---
+sitemap: false
+---
+
+@import "no-style-please";
+
+:root {
+  color-scheme: light dark;
+  --main-text-color: #FFFFFF;
+  --background-color: #292929;
+  --primary-color: #CB2C2B;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --main-text-color: #FFFFFF;
+    --background-color: #292929;
+    --primary-color: #FF706F;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --main-text-color: #222222;
+    --background-color: #FFFFFF;
+    --primary-color: #CB2C2B;
+  }
+}
+
+html {
+  background-color: var(--background-color);
+  color: var(--main-text-color);
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--main-text-color);
+}
+
+@media (max-width:500px) {
+	div.wrapper {
+		margin: auto;
+	}
+}
+
+
+img.icon {
+	display: block;
+	width: 50%;
+	max-width: 200px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img.features {
+	display: block;
+	width: 100%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	color: var(--primary-color);
+	font-weight: 600;
+}
+
+ul.menu a {
+	color: var(--main-text-color);
+	font-weight: 300;
+}
+
+ul.menu b {
+	color: var(--primary-color);
+	font-weight: 600;
+}
+
+h1 {
+	line-height: 2.5rem;
+}
+
+h2 {
+	line-height: 1.2;
+	margin-top: 2.5em;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+	clear: both;
+}
+
+ul, ol {
+	line-height: 1.5;
+}
+
+p {
+	line-height: 1.4;	
+	font-size: 1em;
+}
+
+.download {
+	text-align: center;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 4rem 2rem;
+}
+
+*:target {
+    background: yellow;
+}
+
+img {
+	width: 100%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5)
+}
+
+.template-img {
+	float: left;
+	width: 30%;
+	height: auto;
+	margin-left: 1.5%;
+	margin-right: 1.5%;
+	margin-bottom: 2em;
+	border-style: solid;
+	border-width: 1px;
+	box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.template-img-landscape {
+	float: left;
+	width: 30%;
+	height: auto;
+	margin-left: 1.5%;
+	margin-right: 1.5%;
+	margin-bottom: 2em;
+	border-style: solid;
+	border-width: 1px;
+	box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width:500px) {
+	.template-img {
+		width: 46%;
+		margin-left: 2%;
+		margin-right: 2%;
+	}
+
+	.template-img-landscape {
+		width: 100%;
+		margin-left: 0px;
+		margin-right: 0px;
+		margin-bottom: 1em;
+	}
+}
