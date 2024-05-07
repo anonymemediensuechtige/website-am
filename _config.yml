@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 # Enable for final deployment
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://habittracker.top" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://habittracker.top" # the base hostname & protocol for your site, e.g. http://example.com
 
 # baseurl: "/habit-tracker-templates"
 # url: https://alaincaltieri.github.io
