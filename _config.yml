@@ -1,0 +1,30 @@
+title: Habit Tracker Templates
+email: help.chapps@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  All the tools you need to track your habits, for free.
+
+# Enable for final deployment
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://habittracker.top" # the base hostname & protocol for your site, e.g. http://example.com
+
+# baseurl: "/habit-tracker-templates"
+# url: https://alaincaltieri.github.io
+
+twitter_username: alaincaltieri
+github_username:  alaincaltieri
+
+theme_config:
+  appearance: "light"
+  show_description: true
+  back_home_text: "Home"
+
+# Build settings
+# theme: no-style-please  # Use this locally
+remote_theme: riggraz/no-style-please  # Use this to deploy
+
+permalink: /:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
