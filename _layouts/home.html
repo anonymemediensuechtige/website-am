@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<header>
+  <h1>{{ site.title }}</h1>
+  {%-if site.theme_config.show_description-%}
+    <p>{{ site.description }}</p>
+  {%-endif-%}
+  <script src="{{ '/assets/js/custom.js' | absolute_url }}"></script>
+</header>
+
+<img src="{{ '/assets/media/habits-fight-poster.jpg' | absolute_url }}">
+
+<p>Welcome to the haven for habit tracker enthusiasts!</p>
+
+<p>I'm Alain, an indie developer and a fervent advocate for the power of habit tracking. My journey has led me to create <a href="https://apple.co/3PqueKO"><strong>Habituator</strong>, an habit tracker app for iOS</a> designed to allow you to cultivate habits that stick.</p>
+
+<p>This website is filled with additional resources curated to support your habit tracking endeavors. <a href="{{ 'what-is-a-habit-tracker' | relative_url }}">What is a habit tracker</a>, you ask? We’ve got you covered too, starting from the basics!</p>
+
+<p>Whether you're a fan of the tactile feel of <a href="{{ 'habit-tracker-bullet-journal' | relative_url }}">bullet journals</a>, the versatility of <a href="{{ 'habit-tracker-excel-sheets' | relative_url }}">spreadsheets</a>, or the organizational prowess of <a href="{{ 'notion-habit-tracker' | relative_url }}">Notion</a>, you'll find something here to enhance your habit tracking experience. Feel free to dive into our collection of <a href="{{ 'habit-tracker-printable-templates' | relative_url }}">printable habit tracker templates</a>, <a href="{{ 'habit-tracker-cards' | relative_url }}">cards and stickers</a>, <a href="{{ 'habit-tracker-calendar' | relative_url }}">calendars</a>, and then <a href="{{ 'habit-tracker-journals' | relative_url }}">habit tracker journals, planners and notebooks</a>, each crafted to inspire consistency and progress in your personal development journey.</p>
+
+{%-include menu_item.html collection=site.data.menu.entries-%}
+
+{{ content }}      

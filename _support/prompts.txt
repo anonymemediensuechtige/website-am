@@ -1,0 +1,105 @@
+------------------------------------------------------------------------
+---  POSTS
+------------------------------------------------------------------------
+
+Let's create an essay titled: "How to Create Your Own Bullet Journal Habit Tracker". 
+The essay is divided into sections, we'll go through all of them and write them together. For each section I'll provide you with the title, a summary of its content and how long it should be. Ready?
+
+## Introduction
+This section explains briefly what a habit tracker is, why it is useful and how to use it. It focuses on the distinction between digital and hand written solutions. It then introduces the concept of Bullet Journals.
+This section should be about 400 words long.
+
+TODO: ADD TOC
+
+## Is a Bullet Journal Habit Tracker The right solution for You?
+This section explains in detail what are Bullet Journals, how are they used and who may enjoy using them. 
+It then focuses on the Pros and cons of tracking habits with a bullet yournal.
+This section should be about 700 words long.
+
+## Alternatives to Bullet Journal Habit Trackers
+Explain the main alternatives, including printable templates, Notion, Google Sheets and mobile apps. 
+Focus on mobile apps as the superior tool, specially on Habituator for iOS, which we developed.
+This section should be about 300 words long.
+
+## How to Create a Habit Tracker on a Bullet Journal
+Explain the core elements that should compose a habit tracker in any Bullet Journal. 
+This section should be about 600 words long.
+
+## Bullet Journal Habit Tracker Template Examples
+Introduce how a template or example can help getting inspiration for creating our own design into our Bullet Journal.
+Then introduce 3 templates: alpha, beta and gamma.
+This section should be about 200 words long.
+
+## Conclusion
+Summarize the essay content and provide actionables.
+
+
+---
+
+Create the introduction to a blog post How to track your habits on Notion.
+Use a concise and clear language without jargon or complex sentences, copy Hemingway for the lexical style but do not use too many metaphors. Use humour and be human as appropriate.
+The text should be about 100 words long and optimized for the SEO query "notion habit tracker"
+
+
+------------------------------------------------------------------------
+--- IMAGES
+------------------------------------------------------------------------
+
+
+I'm trying to create a header image for a blog post titled "What the heck is a habit tracker and how should you use it?". Can you give me some creative ideas and generate a few images for me? 
+
+The style should be illustration. Preferably black and white, with just one or two colors (RED and YELLOW).
+
+
+---
+
+Create an image: "sticker of a young plant with green leaves sprouting from the terrain on a transparent background"
+Size: 1400 x 1080 pixels.
+
+-
+
+Create an image.
+The image should display a stressed woman smoking a cigarette while scrolling on a smartphone. She is sitting on the sidewalk of an empty street, with condos behind her. The style must be pencil illustration, with predominant colors being black and accent colors in red and blue. The purpose of the image is to serve as a high quality and evocative blog header.
+
+Create an image.
+The image should display lush garden with tiny seedlings sprouting from the soil. The style must be black and white pencil drawing, but use green for the plants. The purpose of the image is to serve as a high quality and evocative blog header.
+
+
+Crea una immagine. L'immagine mostra del terreno su cui stanno germogliando delle piantine. Si vede un raggio di sole colpire una parte del campo. Le piantine sono di grandezza diversa e sullo sfondo s'intravedono piante adulte. Usa lo stile graphic novel, con solo toni bianco e nero ma colora le piante di un verde acceso per metterle in evidenza. L'immagine dev'essere di alta qualità e verrà usata come header per un blog.
+
+
+Crea una immagine. L'immagine mostra un calendario mensile in cui delle checkmark sono disegnate su gran parte dei giorni. Vicino al calendario ci sono delle scarpe da jogging ed una spilla con una smile felice. Usa lo stile graphic novel, con solo toni bianco e nero ma colora i checkmark di rosso vivo per metterli in evidenza. L'immagine dev'essere di alta qualità e verrà usata come header per un blog. Aspect ratio 16:9, wide.
+
+L'immagine mostra un calendario mensile in cui delle checkmark sono disegnate su gran parte dei giorni. Vicino al calendario ci sono delle scarpe da jogging ed una spilla con una smile felice. Usa lo stile graphic novel, con solo toni bianco e nero ma colora i checkmark di rosso vivo per metterli in evidenza. L'immagine dev'essere di alta qualità e verrà usata come header per un blog. Aspect ratio 16:9, wide.
+
+Crea una immagine. 
+L'immagine mostra un sentiero poco battuto sulla sinistra ed uno molto frequentato sulla destra. Il sentiero è lo stesso, solo ritratto in due momenti differenti.
+Usa lo stile graphic novel, con solo toni bianco e nero ma colora i checkmark di rosso vivo per metterli in evidenza. L'immagine dev'essere di alta qualità e verrà usata come header per un blog. Aspect ratio 16:9, wide.
+
+
+----
+
+Crea una immagine. 
+L'immagine mostra i seguenti stickers, sparsi su un tavolino:
+- Una mela rossa
+- Un segnale di divieto di fumo
+- Un paio di scarpe da corsa
+- Una ragazza in posa da yoga
+- Un libro
+- Uno smile arrabbiato
+Usa lo stile graphic novel, con solo toni bianco e nero ma colora i checkmark di rosso vivo per metterli in evidenza. L'immagine dev'essere di alta qualità e verrà usata come header per un blog. Aspect ratio 16:9, wide.
+
+
+
+---
+
+Crea l'immagine di una serie di stickers di emoji che vanno da mood negativi a molto positivi. Gli stickers sono attaccati al frame di una bicicletta.
+Usa lo stile graphic novel. Aspect ratio 16:9, wide.
+
+
+Crea l'immagine di un bullet journal in cui è disegnata una tabella. Ogni riga ha una parola nella prima colonna e dei segni colorati in ognuna delle altre colonne. Il bullet journal poggia su una scrivania in legno, con pastelli colorati appoggiati vicino ed una singola pianta come decorazione, niente altro.
+Usa lo stile graphic novel. L'immagine dev'essere di alta qualità e verrà usata come header per un blog. Aspect ratio 16:9, wide.
+
+
+Crea un'immagine di una scrivania in legno con sopra il display di un monitor. Sul display è visibile uno spreadsheet con varie caselle in cui ci sono checkboxes verdi. Sulla scrivania c'è anche un diario aperto su una pagina in cui ci sono delle checkboxes per ogni riga, alcune con dei checkmark rossi dentro. Accanto al diario c'è uno smartphone, sul cui display compare un trofeo ed un ckeckmark color oro. Sul muro dietro c'è un calendario appeso, nelle caselle dei giorni sono segnate diverse croci blu. 
+Usa lo stile graphic novel. L'immagine dev'essere di alta qualità e verrà usata come header per un blog. Aspect ratio 16:9, wide.

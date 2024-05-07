@@ -1,0 +1,13 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: ALL THE RESOURCES
+    post_list:
+      limit: 15
+      show_more: true
+      show_more_text: See more...
+      show_more_url: archive.html
+
+#  - title: FOLLOW US WITH RSS
+#    url: feed.xml
